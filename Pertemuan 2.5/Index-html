@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--meta digunakan agar robot berjalan disini-->
+    <!--utf-8 adalah banyak digunakan di google-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA
+    -Compatible" content="IE=edge"
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belajar HTML</title>
+</head>
+<body>
+    <h1 align="center">Hai Saya sedang belajar HTML</h1>
+    <br>
+    <p><b>HTML</b> adalah <i>sebuah bahasa markah.</i> </p>
+    <hr> <!--ini buat bikin garis penanda-->
+    <center>
+        <!-- dibawah ini adalah gambar pemandangan yang berada di browser-->
+    <img src="image1.jpg" alt="Gambar Image1" width="400"> 
+    </center>
+        <!--ini adalah list terurut-->
+    <ul>
+        <li>Apel</li>
+        <li>Jeruk </li>
+        <li>Anggur</li>
+        <li>Mangga</li>
+         <li>DLL</li>
+    </ul>
+    <!--ini adalah list tidak terurut-->
+    <ol>
+        <li>Apel</li>
+        <li>Jeruk </li>
+        <li>Anggur</li>
+        <li>Mangga</li>
+         <li>DLL</li>
+    </ol>
+
+    <!--ini adalah membuat table-->
+    <table border="1">
+        <tr> <!--ini untuk membuat baris-->
+            <th>Nama</th> <!--ini untuk memasukan data-->
+            <th>Nilai</th> <!--th=table head untuk seperti menebalkan  atau judulnya-->
+        </tr>
+        <tr>
+            <td>andi</td>
+            <td>79</td>
+        </tr>
+        <tr>
+            <td>Rendi</td>
+            <td>85</td>
+        </tr>
+        <tr>
+            <td> Rere </td>
+            <td>70</td>
+        </tr>
+
+    </table>
+</body>
+
+</html>
